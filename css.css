@@ -1,0 +1,164 @@
+.Header{
+	background-image: url(Space.jpg);
+	max-width:100%;
+	padding: 0%;
+	margin: 0%;
+	height: 30vw;
+	margin: 0%;
+	padding: 0%;
+}
+
+.Title
+{
+	position: absolute;
+	text-align: center;
+	font-family: Andale Mono, monospace ;
+    font-weight: bold;
+	color:#f5f2fa;
+	top: 2%;
+	left: 24%;
+	font-size: 2.5vw;
+	
+
+}
+.Search_box
+{
+	position: absolute;
+	top:27vw;
+	right: 0%;
+}
+#Social_media
+{
+	position: absolute;
+	top: 1vw;
+	left: 92%;
+	height: auto;
+	max-width: 3%;
+
+
+}
+#Planet
+{
+	position: absolute;
+	top:13vw;
+	left:24%;
+	
+}
+#Start
+{ position: absolute;
+	top:0%;
+	left:0%;
+	margin: 0%;
+}
+.Text
+{
+	text-align: center;
+	font-family: Georgia;
+	color:#1b1f26;
+	font-weight: bold;
+	font-size: 2vw;
+	line-height: normal;
+	margin-top: 6%;
+
+}
+.Text_additional
+{
+	text-align: center;
+	font-family: Georgia;
+	color:#1b1f26;
+	font-weight: bold;
+	font-size: 1.5vw;
+	line-height: normal;
+	margin-top: 5%;
+
+}
+.Block
+{
+	background-color: #f5f2fa;
+	position: absolute;
+	left: 45%;
+	margin-top:3%;
+   
+
+}
+img
+{
+	max-width: 100%;
+}
+#Introduce
+{
+	height: 500px;
+}
+ table {
+ 	margin-top: 10%
+    width: 100%; /* Ширина таблицы */
+    border-collapse: collapse; /* Убираем двойные линии между ячейками */
+    border: 2px solid white;
+  
+     /* Прячем рамку вокруг таблицы */
+   }
+   td,th {
+    padding: 3%;
+    border-color: white
+
+    /* Поля вокруг содержимого таблицы */
+
+}
+    
+   
+   .FooterText
+{
+	position: relative;
+	text-align: center;
+	font-family: Andale Mono, monospace ;
+    font-weight: bold;
+	color:#f5f2fa;
+	top: 5%;
+	
+	font-size: 1vw;
+	
+
+}
+.Search_Icon
+{
+content: "\f002";
+font-family: FontAwesome;
+font-style: normal;
+font-weight: normal;
+text-decoration: inherit;
+color: #000;
+font-size: 3%;
+padding-right: 0.5em;
+position: absolute;
+top:10px;
+left: 0;
+}
+
+body
+{
+margin: 0px;
+overflow-x: hidden;
+}
+input, button
+{
+	border:none;
+	outline: none;
+	border-radius: 3px;
+
+}
+input
+{
+	background: ##f5f2fa;
+	cursor: pointer;
+}
+button
+{
+	background: #524194;
+	height: 13px;
+}
+button-before
+{
+	content: "\f105";
+	font-size: 20px;
+	font-weight: bold;
+}
